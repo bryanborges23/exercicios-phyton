@@ -9,4 +9,5 @@ def cadastrar_pacientes():
     CPF = input("CPF: ")
     telefone = input("Telefone: ")
     
+
     paciente = []
